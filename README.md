@@ -1,7 +1,12 @@
 ```
 npm i redux react-redux redux-saga redux-thunk redux-devtools-extension
+
+From redux-saga@v1 debounce is built-in effect.
 ```
 
+https://redux-saga.js.org/docs/recipes/
+
+https://medium.com/a-layman/redux-middleware-the-differences-between-redux-think-and-redux-saga-1e226f5a772a
 
 ```
 There are some problems with thunk when it comes to organisation and readability.
