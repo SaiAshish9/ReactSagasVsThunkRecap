@@ -28,4 +28,6 @@ it's also difficult to pass params down the tree.
 
 ```
 We can chain api calls very easily in case of sagas.
+
+Sagas has lot of inbuilt effects which can directly be used.
 ```
